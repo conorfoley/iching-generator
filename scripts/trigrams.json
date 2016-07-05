@@ -1,0 +1,66 @@
+{
+
+	"0,0,0": {
+		"lines": [0, 0, 0],
+		"name": "Ch'ien",
+		"attribute": "Strong",
+		"image": "Heaven",
+		"relationship": "Father"
+	},
+
+	"1,1,1": {
+		"lines": [1, 1, 1],
+		"name": "K'un",
+		"attribute": "Devoted, Yielding",
+		"image": "Earth",
+		"relationship": "Mother"
+	},
+
+	"0,1,1": {
+		"lines": [0, 1, 1],
+		"name": "Chen",
+		"attribute": "Inciting, Movement",
+		"image": "Thunder",
+		"relationship": "First Son"
+	},
+
+	"1,0,1": {
+		"lines": [1, 0, 1],
+		"name": "K'an",
+		"attribute": "Dangerous",
+		"image": "Water",
+		"relationship": "Second Son"
+	},
+
+	"1,1,0": {
+		"lines": [1, 1, 0],
+		"name": "Ken",
+		"attribute": "Resting",
+		"image": "Mountain",
+		"relationship": "Third Son"
+	},
+	"1,0,0": {
+		"lines": [1, 0, 0],
+		"name": "Sun",
+		"attribute": "Penetrating",
+		"image": "Wind, Wood",
+		"relationship": "First Daughter"
+	},
+
+	"0,1,0": {
+		"lines": [0, 1, 0],
+		"name": "Li",
+		"attribute": "Light-giving",
+		"image": "Fire",
+		"relationship": "Second Daughter"
+	},
+
+	"0,0,1": {
+		"lines": [0, 0, 1],
+		"name": "Tui",
+		"attribute": "Joyful",
+		"image": "Lake",
+		"relationship": "Third Daughter"
+	}
+
+}
